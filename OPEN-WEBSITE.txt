@@ -1,0 +1,11 @@
+LUNA PRINT
+
+Double-click index.html to open the website in Chrome or Edge.
+No installation, server, localhost, account, or internet connection is needed.
+
+Keep this folder and its vendor subfolder together.
+Select your shipping-label PDFs, then click Print document.
+Allow the new tab if your browser blocks it.
+Print using A4 and Actual size / 100%.
+
+Your shipping-label files stay on your computer.
